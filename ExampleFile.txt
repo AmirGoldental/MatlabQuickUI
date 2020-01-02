@@ -1,0 +1,16 @@
+title Example
+panel Panel 1 
+radiogroup Choose a radio button
+radio N/A
+radio Option 1
+radio Option 2
+end
+text This is plain text
+checkbox Check this
+checkbox And this
+checkbox Not this
+textbox Write a number
+list what do you want?;option1;option2
+end
+commentbox Comment here 
+text Thank you!
