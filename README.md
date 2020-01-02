@@ -67,4 +67,4 @@ Comment here : Comment
 License
 -------
 
-Licensed under the [MIT License](LICENSE.md). &copy; Amir Goldental
+Licensed under the [MIT License](LICENSE). &copy; Amir Goldental
