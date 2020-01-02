@@ -12,7 +12,7 @@ Request user input according to instructions from a text file
 str = QuickUI(filename)  
   
 **Description**  
-QuickUI displays a user intepface and waits for the user to input and press Ok key.  
+QuickUI displays a user interface and waits for the user to input and press Ok key.  
 If the user closes, then input returns an empty matrix.  
   
 **Input Arguments**  
@@ -52,7 +52,7 @@ commentbox Comment here
 text Thank you!  
 ~~~~
   
-The output from the example above woul be a string conating:  
+The output from the example above would be a string containing:
 ``` 
 Panel 1 : {   
               Check this;    
