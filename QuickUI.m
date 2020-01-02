@@ -5,7 +5,7 @@ function Information = QuickUI(FileName)
 % str = QuickUI(filename)
 %
 % Description
-% QuickUI displays a user intepface and waits for the user to input and press Ok key.
+% QuickUI displays a user interface and waits for the user to input and press Ok key.
 % If the user closes, then input returns an empty matrix.
 %
 % Input Arguments
